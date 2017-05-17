@@ -13,7 +13,7 @@ int main(void){
 	fclose(fp);
 	for(i=0; i<N; i++) {
 		printf("%f\n", a[i]);
-    }
+   　　 }
 
 	for(i=0;i<N;i++){
 		ave+=a[i];
